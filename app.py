@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ijMDgCIEzrDiSNZ_KZyho-yqCgMq5-Ft
 """
 
-pip install streamlit
-
-pip install streamlit-option-menu
-
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
